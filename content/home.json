@@ -8,19 +8,19 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
+          "img": "/img/uploads/encarte_tdb_205x56mm_300dpi_cmyk.jpg",
+          "link": "",
+          "alt": "",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "end": "",
+          "mobile_img": "/img/uploads/encarte_tdb_205x56mm_300dpi_cmyk.jpg"
         },
         {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
+          "img": "/img/uploads/whatsapp-image-2021-02-25-at-12.40.27.jpeg",
+          "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/passion.webp"
+          "mobile_img": "/img/uploads/whatsapp-image-2021-02-25-at-12.40.27.jpeg"
         }
       ]
     },
