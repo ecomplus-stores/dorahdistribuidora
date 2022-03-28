@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Atendemos PR e SC"
   },
   "installments": {
     "show": true,
@@ -9,7 +9,7 @@
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Pedido Mínimo R$ 300,00"
   },
   "promo": {
     "show": true,
