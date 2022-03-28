@@ -1,26 +1,26 @@
 {
-  "store_id": 47362,
-  "name": "dorahdistribuidora",
   "domain": "dorahdistribuidora.netlify.app",
-  "short_name": "dorahdistribuidora",
-  "description": "dorahdistribuidora",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-gray"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/dorahdistribuidora",
+  "logo": "/img/uploads/logo.jpg",
+  "name": "Dorah Distribuidora de Cosméticos",
+  "short_name": "Dorah Distribuidora",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/dorahdistribuidora",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/d_dorah.jpg",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/d_dorah.jpg",
+  "store_id": 47362,
+  "description": "A Dorah Distribuidora e especialista no canal Farma, atendemos as lojas do PR e SC.",
+  "large_icon": "/img/uploads/d_dorah.jpg"
 }
