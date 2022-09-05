@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "PEDIDO MÍNIMO R$ 300,00",
+    "text": "Preços de atacado para todos!",
     "link": ""
   },
   "contacts_stripe": {
@@ -13,6 +13,8 @@
     "random": 6,
     "full_width": false
   },
-  "desktop_megamenu": false,
-  "search_input": true
+  "desktop_megamenu": true,
+  "search_input": true,
+  "alphabetical_order_submenu": false,
+  "full_width_submenu": false
 }
