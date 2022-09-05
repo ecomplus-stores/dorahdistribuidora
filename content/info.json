@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Atendemos PR e SC"
+    "text": "Envio Rápido"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Até 12x sem juros"
   },
   "exchange": {
     "show": true,
-    "text": "Pedido Mínimo R$ 300,00"
+    "text": "Sem Pedido Mínimo"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "5% Desconto no Pix"
   }
 }
