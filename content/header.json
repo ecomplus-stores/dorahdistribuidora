@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Preços de atacado para todos!",
+    "text": "Preços baixos de verdade! - Para compra CNPJ, somente com vendedor.",
     "link": ""
   },
   "contacts_stripe": {
@@ -9,9 +9,11 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
+    "featured": [
+      "/toalhas-umedecidas?Toalhas / Lenços Umedecidos"
+    ],
+    "random": 10,
+    "full_width": true
   },
   "desktop_megamenu": true,
   "search_input": true,
