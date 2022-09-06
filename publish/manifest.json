@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.1550a6fe402e9072d36a298a3768137a.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.ce75c4d973a20b663eee15a2591d4ef4.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.03b69e659d3d1aee6a3c317b67d6f169.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.7aa53b5ae334d99467c888c1728582b0.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.2f64cd0de8f22a8f08e0a21716bf82b2.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Dorah Distribuidora de Cosméticos",
+  "short_name": "Distribuidor Atacado - Dorah Cosméticos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Distribuidor Atacado - Dorah Cosméticos é a Loja Online da Dorah Distribuidora de Cosméticos focada no consumidor final. Atuamos com os melhores produtos, com preços de atacado e condições facilitadas de pagamento.",
+  "background_color": "#ffffff",
+  "theme_color": "#030303"
+}
